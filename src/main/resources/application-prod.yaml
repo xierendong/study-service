@@ -1,0 +1,8 @@
+server :
+  port : 8080
+  servlet :
+    context-path: /xrd
+logging :
+  level :
+    #    TRACE, DEBUG, INFO, WARN, ERROR, FATAL, OFF
+    web : INFO
